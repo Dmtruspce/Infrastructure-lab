@@ -220,7 +220,7 @@ _Add screenshot here_
 
 ## DNS Configuration
 
-_Add screenshot here_
+![Server Manager DNS Configuration](Screenshots/Server%20Manager%20DNS%20.png)
 
 ## Group Policy Configuration
 
