@@ -224,7 +224,7 @@ _Add screenshot here_
 
 ## Group Policy Configuration
 
-![Group Policy Tree](Screenshots/Group%20Policy%20Tree.png)
+![Group Policy Tree](Screenshots/Group-Policy-Tree.png)
 
 ## Azure / Intune Integration
 
