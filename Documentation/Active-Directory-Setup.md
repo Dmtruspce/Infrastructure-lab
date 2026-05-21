@@ -51,3 +51,5 @@ This phase helped reinforce the importance of DNS, static IP addressing, domain 
 ## Screenshots
 
 Screenshots will be added as the lab progresses.
+
+[View Screenshots Folder](./Screenshots/)
