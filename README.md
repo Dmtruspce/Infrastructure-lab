@@ -277,8 +277,8 @@ Demetrious Price
 
 ## Connect With Me
 
-- LinkedIn: _Add your LinkedIn_
-- GitHub: _Add your GitHub_
+- LinkedIn: _www.linkedin.com/in/demetrious-price-it-professional_
+- GitHub: _https://github.com/Dmtruspce_
 - Certifications:
   - CompTIA A+
   - Microsoft AZ-900
