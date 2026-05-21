@@ -142,4 +142,4 @@ Planned future policy implementations include:
 
 ## Screenshots
 
-![Group Policy Tree](Group-Policy-Tree1.png)
+![Group Policy Tree](../Screenshots/Group-policy-Tree1.png)
