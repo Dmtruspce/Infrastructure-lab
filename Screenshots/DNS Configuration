@@ -4,6 +4,8 @@ The screenshot below shows the DNS role installed and operational on the domain 
 
 DNS was configured as part of the Active Directory deployment to provide centralized name resolution services for the enterprise lab environment.
 
+![DNS Server Manager Configuration](./Server%20Manager%20DNS%20.png)
+
 The DNS server plays a critical role within Active Directory by enabling:
 
 - Domain controller discovery
@@ -19,5 +21,3 @@ The DNS role was validated by confirming:
 - Active DNS services
 - Proper communication with client systems
 - Event logging visibility within Server Manager
-
-![DNS Server Manager](../Screenshots/dns-server-manager.png)
